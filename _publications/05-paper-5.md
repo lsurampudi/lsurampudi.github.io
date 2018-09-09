@@ -1,9 +1,9 @@
 ---
 title: "The determining role of scratch indenter radius on surface deformation of high density polyethylene and calcium carbonate-reinforced composite"
 collection: publications
-permalink: /publication/5/15/07-paper-5
+permalink: /publication/7/15/05-paper-5
 excerpt: 'We have usedÊmicroscopy techniquesÊto examine mechanically inducedÊsurface damageÊduring microscratching of high densityÊpolyethyleneÊand calcium carbonate-reinforced composite. The radius of stylus has a dominant effect on surface deformation, which can be predicted from the characteristics ofÊsurface morphologyand the scratch deformation parameters. However, the resistance to scratch deformation is not linearly related to radius but depends on the geometry of the stylus. The surface deformation behavior is discussed in terms of physical (crystallinity, spherulite size) and mechanical properties (elastic modulus, elastic recovery, toughness, and scratch hardness).'
-date: 5/15/07
+date: 7/15/05
 venue: 'Materials Science and Engineering: AÊ'
 paperurl: 'http://lalitsurampudi.github.io/files/paper5.pdf'
 citation: 'Surampudi, N. L.; Pesacreta, T. C.; Misra, R. D. K., The determining role of scratch indenter radius on surface deformation of high density polyethylene and calcium carbonate-reinforced composite.ÊMaterials Science and Engineering a-Structural Materials Properties Microstructure and ProcessingÊ2007,Ê456Ê(1-2), 218-229.'
