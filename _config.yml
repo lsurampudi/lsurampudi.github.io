@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LalitSurampudi / Key Insights"
+title                    : "Lalit Surampudi / Key Insights"
 title_separator          : "-"
 name                     : &name "lalitsurampudi"
 description              : &description "Data Scientist"
@@ -82,7 +82,7 @@ author:
   name             : "Lalit Surampudi"
   avatar           : "profile.png"
   bio              : "Data Scientist"
-  location         : "Location"
+  location         : "Bethesda, MD"
   employer         :
   googlescholar    : "hhttps://scholar.google.com/citations?user=nLvpQ78AAAAJ&hl=en"
   email            : 'lalit.surampudi@gmail.com'
@@ -98,8 +98,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lalitsurampudi/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "lalitsurampudi"
+  orcid            : "https://orcid.org/0000-0001-6000-471"
   pinterest        :
   soundcloud       :
   stackoverflow    : # https://stackoverflow.com/users/5787484/max-flynn
