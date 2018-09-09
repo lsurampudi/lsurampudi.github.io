@@ -1,0 +1,15 @@
+---
+title: "Numerical validation of ift in the analysis of proteinÐsurfactant complexes with saxs and sans"
+collection: publications
+permalink: /publication/8/5/12-paper-3
+excerpt: 'The use of the indirect Fourier transform methods for evaluating structural parameters directly in real space with small-angle scattering measurements is validated for the analysis of protein-surfactant complexes. An efficient Monte Carlo approach rapidly generates in silico structures based on a realistic pearl-necklace model for denatured proteins decorated with surfactant micelles. Corresponding scattering profiles are calculated and averaged over a large number of possible configurations for each structure. IFT algorithms are then used to calculate the corresponding pair-distance distribution function, and structural information is extracted directly without model fitting. The extracted parameters are compared and correlated with the known structure of the simulated complexes to assess the quality of the information that can be reliably obtained from these systems. The average extension, nearest-neighbor micelle distance, and average number of associated micelles are all accurately extracted through IFT calculations. Improved and simple approaches to reliably extract the average extension of the complex and the total number of associated micelles are presented.'
+date: 8/5/12
+venue: 'Langmuir'
+paperurl: 'http://lalitsurampudi.github.io/files/paper3.pdf'
+citation: 'Franklin, J. M.; Surampudi, L. N.; Ashbaugh, H. S.; Pozzo, D. C., Numerical Validation of IFT in the Analysis of Protein-Surfactant Complexes with SAXS and SANS.ÊLangmuirÊ2012,Ê28Ê(34), 12593-12600'
+---
+The use of the indirect Fourier transform methods for evaluating structural parameters directly in real space with small-angle scattering measurements is validated for the analysis of protein-surfactant complexes. An efficient Monte Carlo approach rapidly generates in silico structures based on a realistic pearl-necklace model for denatured proteins decorated with surfactant micelles. Corresponding scattering profiles are calculated and averaged over a large number of possible configurations for each structure. IFT algorithms are then used to calculate the corresponding pair-distance distribution function, and structural information is extracted directly without model fitting. The extracted parameters are compared and correlated with the known structure of the simulated complexes to assess the quality of the information that can be reliably obtained from these systems. The average extension, nearest-neighbor micelle distance, and average number of associated micelles are all accurately extracted through IFT calculations. Improved and simple approaches to reliably extract the average extension of the complex and the total number of associated micelles are presented.
+
+[Download paper here](http://lalitsurampudi.github.io/files/paper3.pdf)
+
+Recommended citation: Franklin, J. M.; Surampudi, L. N.; Ashbaugh, H. S.; Pozzo, D. C., Numerical Validation of IFT in the Analysis of Protein-Surfactant Complexes with SAXS and SANS.ÊLangmuirÊ2012,Ê28Ê(34), 12593-12600
