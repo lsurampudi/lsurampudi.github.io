@@ -4,7 +4,7 @@ collection: teaching
 type: "Materials Science Lab"
 permalink: /teaching/2007-spring-teaching-1
 venue: "University Of Louisiana at Lafayette, Chemical Engineering Department"
-date: Spring, 2007
+date: 2007-01-01
 location: "Lafayette, LA"
 ---
 

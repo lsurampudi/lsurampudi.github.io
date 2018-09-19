@@ -4,7 +4,7 @@ collection: teaching
 type: "Unit Operations Lab"
 permalink: /teaching/2010-spring-teaching-1
 venue: "Tulane University, Chemical and BioMolecular Engineering Department"
-date: Spring, 2010
+date: 2010-01-01
 location: "New Orleans, LA"
 ---
 
