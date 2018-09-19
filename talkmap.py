@@ -1,3 +1,5 @@
+
+
 # # Leaflet cluster map of talk locations
 #
 # (c) 2016-2017 R. Stuart Geiger, released under the MIT license
@@ -51,3 +53,7 @@ for file in g:
 
 m = getorg.orgmap.create_map_obj()
 getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talk_map", hashed_usernames=False)
+
+
+
+
