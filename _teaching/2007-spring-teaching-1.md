@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+title: "Senior Mentor"
 collection: teaching
 type: "Materials Science Lab"
 permalink: /teaching/2007-spring-teaching-1
@@ -13,12 +13,3 @@ Provide guidance to the graduate students in conducting experiments in Materials
 - Atomic Force Microscopy
 - Differential Scanning Calorimetry
 - Mechanical testing, failure mode analysis
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
