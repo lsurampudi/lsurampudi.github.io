@@ -11,25 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemical and Biomolecular Engineering, Tulane University, 2015
-* M.S. in Chemical Engineering, University of Louisiana at Lafayette, 2007
-* B.S. in Chemical Engineering, Andhra University College of Engineering, 2005
+* Ph.D., Chemical and Biomolecular Engineering, Tulane University, New Orleans, LA, USA
+    * Date: Aug 2015
+    * GPA 3.81/4.0
+    * Doctoral Thesis: “Probing hydrophobic hydration of nonionic chains and micellar assemblies using molecular dynamics simulations”
+    * Advisor: Dr. Henry S. Ashbaugh
 
-Work experience
+* M.S., Chemical Engineering, University of Louisiana at Lafayette, Lafayette, LA, USA
+    * Date: Mar 2007
+    * GPA: 3.89/4.0	
+    * Thesis: “On the scratch deformation behavior of polymers and their composites”
+    * Advisor: Dr. R.D.K. Misra
+
+* B.Tech., Chemical Engineering, Andhra University, Visakhapatnam, AP, INDIA
+    * Date: Apr 2005
+    * GPA: 72/100
+
+Professional Experience
 ======
 * Data Scientist, Mines Safety and Health Administration, Arlington, VA     Aug 2017 – Present
     * Develop predictive models to forecast trends in mine production, injury rates and resource allocation for mine inspections across the US mining districts
     * Perform data discovery, data visualizations, identify trends and report actionable insights from data through interactive business tools
     * Lead efforts to replace and modernize legacy data retrieval application to query and obtain mine related information from data warehouse to host for public and stake holders’ consumption
     * Communicate results and participate in discussions with the stake holders, data owners and analysts
-    **Tools used:** MicroStrategy Web and Desktop, MicroStrategy Developer, R, D3.js, Microsoft Office
+    * **Tools used:** MicroStrategy Web and Desktop, MicroStrategy Developer, R, D3.js, Microsoft Office
+
 
 * Data Scientist, DMI, Bethesda, MD     Apr 2017 – Present
     * Lead a team of Statistical Analysts and Software Engineers to solve client business problems with data from conceptualization through development of Proof of Concept (POC), scaling and implementation.
     * Develop Natural Language Processing (NLP) based application to process large amounts of unstructured text data in Big Data environment – Hadoop Ecosystem, Apache Spark, using Scala, Python and R languages.
     * Build machine learning pipelines to automate data ingestion, feature extraction, model fit, training, testing and deployment of model into production
     * Develop strategy and analytics platform to perform real-time social media analytics - opinion mining, sentiment analysis, context-based inference and topic modeling
-    **Tools used:** Apache Hadoop, HDFS, Apache HBase, Spark MLLib, Apache Kafka, Python, Numpy, Pandas, scikit-learn, Keras, Anaconda, Jupyter Notebook.
+    * **Tools used:** Apache Hadoop, HDFS, Apache HBase, Spark MLLib, Apache Kafka, Python, Numpy, Pandas, scikit-learn, Keras, Anaconda, Jupyter Notebook.
+
 
 * Sr. Statistical Analyst, DMI, Cincinnati, OH      Mar 2016 – Mar 2017
     * Directed the engineering efforts to enhance statistical models of product assortment, resulted in 14% gross margin increase.
@@ -38,12 +52,12 @@ Work experience
     * Fit multivariate regression models and identified key marketing channels, increasing revenues by 4%.
     * Performed univariate correlation analysis for more than 1000 variables from 30 different datasets.
     * Handling team efforts on social media sentiment analytics and text analytics projects.
-    **Tools used:** Python, R, Tableau, Microsoft Office, Visual Basic, SQL
+    * **Tools used:** Python, R, Tableau, Microsoft Office, Visual Basic, SQL
 
 * Data Scientist, Independent Consultant, Edison, NJ        Sep 2015 – Feb 2016
     * Performed time series analysis, frequency domain observations, signal decomposition for forecasting.
     * Used exponential state smoothing (ETS), Auto Regression Moving Average (ARIMA) models and performed model comparison using Akaike Information Criterion (AIC).
-    **Tools Used:** Python, R, MS
+    * **Tools Used:** Python, R, MS
 
 * Computational Research Assistant, Tulane University, New Orleans, LA      Jan 2010 – Aug 2015
     * 5+ years of computational modeling and data analysis experience in chemical and biomolecular engineering setting.
@@ -54,11 +68,11 @@ Work experience
 
 * Validation Analyst, Baxter Healthcare, Deerfield, IL      Jan 2009 – Dec 2009
     * Worked in an FDA regulated environment, validating medical device installation and operation protocols applying GMP best practices, 21 CFR Part 11, SDLC, risk assessment.
-    **Tools used:** Microsoft Office, Microsoft Access, Visual Basic
+    * **Tools used:** Microsoft Office, Microsoft Access, Visual Basic
 
 * Validation Analyst, Zimmer Biomet, Warsaw, IN     Oct 2007 – Dec 2008
     * Responsible for coordinating installation, operational qualification of the configuration and functioning of several process workflows within the SAP system.
-    **Tools used:** SAP ECC 6.0, Microsoft Office
+    * **Tools used:** SAP ECC 6.0, Microsoft Office
 
 Skills
 ======
