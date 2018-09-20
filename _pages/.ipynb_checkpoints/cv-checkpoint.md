@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
+
 
 Education
 ======
