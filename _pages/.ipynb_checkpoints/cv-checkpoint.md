@@ -10,24 +10,27 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
+#
 
-Education
+## Education
 ======
-* **Ph.D., Chemical and Biomolecular Engineering, Tulane University, New Orleans, LA, USA**
+#### Ph.D., Chemical and Biomolecular Engineering, Tulane University, New Orleans, LA, USA
     * **Date:** Aug 2015
     * **GPA:** 3.81/4.0
     * **Doctoral Thesis:** “Probing hydrophobic hydration of nonionic chains and micellar assemblies using molecular dynamics simulations”
     * **Advisor:** Dr. Henry S. Ashbaugh
 
-* **M.S., Chemical Engineering, University of Louisiana at Lafayette, Lafayette, LA, USA**
+#### M.S., Chemical Engineering, University of Louisiana at Lafayette, Lafayette, LA, USA
     * **Date:** Mar 2007
     * **GPA:** 3.89/4.0	
     * **Thesis:** “On the scratch deformation behavior of polymers and their composites”
     * **Advisor:** Dr. R.D.K. Misra
 
-* **B.Tech., Chemical Engineering, Andhra University, Visakhapatnam, AP, INDIA**
+#### B.Tech., Chemical Engineering, Andhra University, Visakhapatnam, AP, INDIA
     * **Date:** Apr 2005
     * **GPA:** 72/100
+
+#
 
 Professional Experience
 ======
