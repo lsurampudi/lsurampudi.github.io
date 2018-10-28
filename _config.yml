@@ -214,11 +214,7 @@ defaults:
       author_profile: true
       share: false
       comments: false
-<<<<<<< HEAD
   # _articles
-=======
-  # _publications
->>>>>>> refs/remotes/origin/master
   - scope:
       path: ""
       type: articles
@@ -244,7 +240,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
