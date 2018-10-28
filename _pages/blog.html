@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /blog/
-title: "Blog"
+title: "Blog Posts"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
