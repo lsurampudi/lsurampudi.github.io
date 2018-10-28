@@ -13,7 +13,7 @@ main:
   - title: "Contact"
     url: /contact/
 
- - title: "Publications"
+  - title: "Publications"
     url: /articles/
 
   - title: "Talks"
