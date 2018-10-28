@@ -223,10 +223,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _interests
+  # _expressions
   - scope:
       path: ""
-      type: interests
+      type: expressions
     values:
       layout: single
       author_profile: true
