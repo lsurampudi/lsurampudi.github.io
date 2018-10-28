@@ -187,10 +187,10 @@ collections:
 
 # Defaults
 defaults:
-  # _blog
+  # _posts
   - scope:
       path: ""
-      type: blog
+      type: posts
     values:
       layout: single
       author_profile: true
