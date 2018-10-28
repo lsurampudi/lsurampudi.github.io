@@ -85,7 +85,7 @@ author:
   location         : "Bethesda, MD"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=nLvpQ78AAAAJ&hl=en"
-  email            : 'lsurampudi@gmail.com'
+  email            : 'lalit.surampudi@gmail.com'
   uri              :
   bitbucket        :
   codepen          :
@@ -110,15 +110,16 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipeida        :
-  tableau          : "https://public.tableau.com/en-us/s/blog"
-
+  wikipedia        :
 
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - files
+  - "*.pdf"
+  - "papers/*.pdf"
+  - "portfolio/papers/*.pdf"
+  - "portfolio/*.pdf"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -148,14 +149,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -174,10 +173,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  articles:
     output: true
     permalink: /:collection/:path/
-  interests:
+  expressions:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -211,9 +210,10 @@ defaults:
       type: teaching
     values:
       layout: single
+      read_time: false
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -240,7 +240,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -251,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -260,6 +260,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
@@ -305,5 +306,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman
