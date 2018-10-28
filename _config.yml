@@ -211,13 +211,14 @@ defaults:
       type: teaching
     values:
       layout: single
+      read_time: false
       author_profile: true
-      share: true
-      comments: true
-  # _publications
+      share: false
+      comments: false
+  # _articles
   - scope:
       path: ""
-      type: publications
+      type: articles
     values:
       layout: single
       author_profile: true
