@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lalit Surampudi / Key Insights"
+title                    : "Lalit Surampudi"
 title_separator          : "-"
 name                     : &name "Lalit Surampudi"
 description              : &description "Data Scientist"
@@ -177,7 +177,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  interests:
     output: true
     permalink: /:collection/:path/
   talks:

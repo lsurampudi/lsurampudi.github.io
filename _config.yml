@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lalit Surampudi / Key Insights"
+title                    : "Lalit Surampudi"
 title_separator          : "-"
 name                     : &name "Lalit Surampudi"
 description              : &description "Data Scientist"
@@ -85,7 +85,7 @@ author:
   location         : "Bethesda, MD"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=nLvpQ78AAAAJ&hl=en"
-  email            : 'lalit.surampudi@gmail.com'
+  email            : 'lsurampudi@gmail.com'
   uri              :
   bitbucket        :
   codepen          :
@@ -177,7 +177,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  interests:
     output: true
     permalink: /:collection/:path/
   talks:
