@@ -110,7 +110,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  Wikipeida        :
+  Tableau          : "https://public.tableau.com/en-us/s/blog"
 
 
 # Reading Files
@@ -222,10 +223,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _interests
   - scope:
       path: ""
-      type: portfolio
+      type: interests
     values:
       layout: single
       author_profile: true
