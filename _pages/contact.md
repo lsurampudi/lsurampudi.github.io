@@ -8,7 +8,7 @@ Contact information is below, including email and various web services. Here are
 
 * E-mail: lsurampudi [at] gmail.com
 * Twitter: [@lalitsurampudi](http://twitter.com/lalitsurampudi)
-* Google Scholar: [Lalitanand Surampudi](https://scholar.google.com/citations?user=nLvpQ78AAAAJ&hl=en)
+* Google Scholar: [author:Lalitanand Surampudi](https://scholar.google.com/citations?user=nLvpQ78AAAAJ&hl=en)
 * LinkedIn: [lsurampudi](http://www.linkedin.com/in/rstuartgeiger)
 * GitHub: [lsurampudi](https://github.com/lalitsurampudi)
 * Tableau Public: [lsurampudi](https://public.tableau.com/profile/lalitsurampudi#!/)
