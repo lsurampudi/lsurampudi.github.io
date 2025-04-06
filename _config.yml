@@ -229,13 +229,8 @@ defaults:
       type: expressions
     values:
       layout: single
-<<<<<<< HEAD
-      author_profile: true
-      share: false
-=======
       author_profile: false
-      share: true
->>>>>>> 2b096851fc07b61955566b5b8543ec5efcbc2b84
+      share: false
       comment: true
   # _talks
   - scope:
