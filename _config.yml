@@ -223,14 +223,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _expressions
+  # _news
   - scope:
       path: ""
-      type: expressions
+      type: news
     values:
       layout: single
-      author_profile: false
-      share: false
+      author_profile: true
+      share: trueß
       comment: true
   # _talks
   - scope:
