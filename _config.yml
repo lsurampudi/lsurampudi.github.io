@@ -223,10 +223,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _news
+  # _expressions
   - scope:
       path: ""
-      type: news
+      type: expressions
     values:
       layout: single
       author_profile: true
