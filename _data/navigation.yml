@@ -4,8 +4,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Expressions"
-    url: /expressions/
+  - title: "News"
+    url: /news/
 
   - title: "CV"
     url: /cv/
