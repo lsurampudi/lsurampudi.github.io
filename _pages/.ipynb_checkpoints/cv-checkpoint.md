@@ -15,19 +15,16 @@ redirect_from:
 ## Education
 ======
 #### Ph.D., Chemical and Biomolecular Engineering, Tulane University, New Orleans, LA, USA
-    * **Date:** Aug 2015
     * **GPA:** 3.81/4.0
     * **Doctoral Thesis:** “Probing hydrophobic hydration of nonionic chains and micellar assemblies using molecular dynamics simulations”
     * **Advisor:** Dr. Henry S. Ashbaugh
 
 #### M.S., Chemical Engineering, University of Louisiana at Lafayette, Lafayette, LA, USA
-    * **Date:** Mar 2007
     * **GPA:** 3.89/4.0	
     * **Thesis:** “On the scratch deformation behavior of polymers and their composites”
     * **Advisor:** Dr. R.D.K. Misra
 
 #### B.Tech., Chemical Engineering, Andhra University, Visakhapatnam, AP, INDIA
-    * **Date:** Apr 2005
     * **GPA:** 72/100
 
 #
@@ -35,7 +32,6 @@ redirect_from:
 Professional Experience
 ======
 * **Data Scientist**, Mines Safety and Health Administration, Arlington, VA
-    * **Dates:** Aug 2017 – Present
     * Develop predictive models to forecast trends in mine production, injury rates and resource allocation for mine inspections across the US mining districts
     * Perform data discovery, data visualizations, identify trends and report actionable insights from data through interactive business tools
     * Lead efforts to replace and modernize legacy data retrieval application to query and obtain mine related information from data warehouse to host for public and stake holders’ consumption
@@ -44,7 +40,6 @@ Professional Experience
 
 
 * **Data Scientist**, DMI, Bethesda, MD
-    * **Dates:** Apr 2017 – Present
     * Lead a team of Statistical Analysts and Software Engineers to solve client business problems with data from conceptualization through development of Proof of Concept (POC), scaling and implementation.
     * Develop Natural Language Processing (NLP) based application to process large amounts of unstructured text data in Big Data environment – Hadoop Ecosystem, Apache Spark, using Scala, Python and R languages.
     * Build machine learning pipelines to automate data ingestion, feature extraction, model fit, training, testing and deployment of model into production
@@ -53,7 +48,6 @@ Professional Experience
 
 
 * **Sr. Statistical Analyst**, DMI, Cincinnati, OH
-    * **Dates:** Mar 2016 – Mar 2017
     * Directed the engineering efforts to enhance statistical models of product assortment, resulted in 14% gross margin increase.
     * Data acquisition and assembly/ETL (Extraction, Transformation and Loading) from various sources including databases, warehouses, web and legacy systems.
     * Developed Marketing Mix Model predicting a 5% increase in ROI for a leading optical retail chain.
@@ -63,13 +57,11 @@ Professional Experience
     * **Tools used:** Python, R, Tableau, Microsoft Office, Visual Basic, SQL
 
 * **Data Scientist**, Independent Consultant, Edison, NJ
-    * **Dates:** Sep 2015 – Feb 2016
     * Performed time series analysis, frequency domain observations, signal decomposition for forecasting.
     * Used exponential state smoothing (ETS), Auto Regression Moving Average (ARIMA) models and performed model comparison using Akaike Information Criterion (AIC).
     * **Tools Used:** Python, R, MS
 
 * **Computational Research Assistant**, Tulane University, New Orleans, LA
-    * **Dates:** Jan 2010 – Aug 2015
     * 5+ years of computational modeling and data analysis experience in chemical and biomolecular engineering setting.
     * Performed computer-aided simulations of proteins on High Performance Computing (HPC) clusters.
     * Developed bash and python scripts to automate processes, manage and analyze simulation output files.
@@ -77,12 +69,10 @@ Professional Experience
     * *Tools used:** Linux, Fortran77, MATLAB, GROMACS, Gaussian, Avogadro, Microsoft Excel
 
 * **Validation Analyst**, Baxter Healthcare, Deerfield, IL
-    * **Dates:** Jan 2009 – Dec 2009
     * Worked in an FDA regulated environment, validating medical device installation and operation protocols applying GMP best practices, 21 CFR Part 11, SDLC, risk assessment.
     * **Tools used:** Microsoft Office, Microsoft Access, Visual Basic
 
 * Validation Analyst, Zimmer Biomet, Warsaw, IN
-    * **Dates:** Oct 2007 – Dec 2008
     * Responsible for coordinating installation, operational qualification of the configuration and functioning of several process workflows within the SAP system.
     * **Tools used:** SAP ECC 6.0, Microsoft Office
 
